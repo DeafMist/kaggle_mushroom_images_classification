@@ -1,2 +1,2 @@
 # kaggle_mushroom_images_classification
-Make task from Kaggle - Mushrooms classification - Common genus's images
+https://www.kaggle.com/datasets/maysee/mushrooms-classification-common-genuss-images
